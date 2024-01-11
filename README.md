@@ -6,3 +6,4 @@ Adicionado salvamento de nova mensagem
 Adicionado pesquisa de mensagem por ID
 Adicionado conexão com banco de dados
 Adicionado parte de serviços
+Adicionado utilização de CrudRepository no lugar do JdbcTemplate
